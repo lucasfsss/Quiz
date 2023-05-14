@@ -1,0 +1,14 @@
+#scoreDetails {
+   background: rgba(0, 0, 0, .5);
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+.form-check-input:checked {
+   background-color: #dc3545;
+   color: #dc3545;
+   border-color: #dc3545
+}
